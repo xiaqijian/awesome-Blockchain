@@ -29,3 +29,4 @@
 书
 --
 - [精通比特币](https://github.com/tianmingyun/MasterBitcoin2CN) 《精通比特币》第二版 区块链研究社 云天明联合出品
+- [Node.js区块链开发](https://github.com/imfly/bitcoin-on-nodejs) 《Node.js区块链开发》（网名《Nodejs开发加密货币》）
